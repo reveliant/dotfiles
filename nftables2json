@@ -57,5 +57,5 @@ BEGIN {
 
 END {
 	if (ENVIRON["human"] || ENVIRON["readable"]) printf newline
-	printf "]" ewline
+	printf "]" newline
 }
