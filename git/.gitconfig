@@ -2,4 +2,4 @@
 	name = Rémi Dubois
 	email = packman@oxiame.net
 [alias]
-	lg = git log --oneline --graph
+	lg = log --oneline --graph
